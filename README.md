@@ -28,3 +28,7 @@ I honestly think it looks really cool and it sounds AMAZING. I could listen to i
 View from top                   |  View from the side
 :------------------------------:|:-------------------------:
   ![](Photos/keyboard-top.png)  |  ![](Photos/keyboard-side.png)
+
+### Video of me typing
+https://user-images.githubusercontent.com/61841068/232170492-1050353c-09bd-4673-bd25-12c71e82acdb.mp4
+
